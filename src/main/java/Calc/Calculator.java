@@ -14,6 +14,8 @@ public class Calculator {
                 return arg1 * arg2;
             case 4:
                 return arg1 / arg2;
+            case 5:
+                return arg1 % arg2;
             default:
                 throw new Exception();
         }

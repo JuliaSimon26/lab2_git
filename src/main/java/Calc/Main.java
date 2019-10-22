@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-      //  ArrayList<Integer> answers = new ArrayList<>();
+        ArrayList<Integer> answers = new ArrayList<>();
         Scanner in = new Scanner(System.in);
         Calculator calculator;
         String answer;
